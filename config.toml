@@ -1,0 +1,6 @@
+baseURL = 'https://www.gocanyoning.cr/'
+languageCode = 'en-us'
+title = 'Go Canyoning Costa Rica'
+
+[params]
+    custom_css = ["css/site.css"]
